@@ -1,0 +1,27 @@
+TERMINY SK-UA PUBLIC LAUNCH CHECKLIST
+
+1. Publish the site
+- Best option if you already have GitHub and Vercel: upload to GitHub, then import the repository in Vercel.
+- Fastest free option without GitHub: Netlify Drop.
+- Alternative: GitHub Pages.
+- Keep all files together: index.html, styles.css, script.js, robots.txt, site.webmanifest, assets folder.
+
+2. Buy or connect a domain
+- Good domain examples: terminysk.com, terminy-sk.com, terminy.sk, terminy-slovakia.com.
+- After domain is chosen, update Open Graph image and sitemap with the final public URL.
+
+3. Add Google visibility
+- Add the domain to Google Search Console.
+- Submit sitemap after the domain is live.
+- Create or update Google Business Profile if you want to appear on Google Maps/Search.
+
+4. Promotion
+- Put the site link in TikTok bio.
+- Pin a Telegram channel post with the site link.
+- Add the site link to WhatsApp status and saved business message.
+- Make 5-10 short TikTok videos that answer common client questions.
+
+5. Trust
+- Add more real proof images with hidden personal data.
+- Add clear prices or "price after consultation" if prices depend on the case.
+- Add a simple privacy note before collecting personal documents.

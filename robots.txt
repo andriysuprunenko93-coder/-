@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Add the public sitemap URL here after the site is published.

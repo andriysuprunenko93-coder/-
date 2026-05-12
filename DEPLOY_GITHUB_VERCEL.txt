@@ -1,0 +1,56 @@
+HOW TO PUBLISH TERMINY SK-UA WITH GITHUB + VERCEL
+
+Best setup:
+GitHub keeps the website files.
+Vercel publishes the site and gives you a public link.
+Every future change in GitHub can update the site on Vercel.
+
+STEP 1 - Create GitHub repository
+1. Open github.com and log in.
+2. Click New repository.
+3. Repository name: terminy-sk-ua
+4. Visibility: Public if you want easy free publishing, Private is also possible.
+5. Create repository.
+
+STEP 2 - Upload site files to GitHub
+Upload these files and folders:
+- index.html
+- styles.css
+- script.js
+- vercel.json
+- robots.txt
+- site.webmanifest
+- assets folder
+
+Do not upload:
+- site-preview*.png
+- terminy-sk-site-public.zip
+
+STEP 3 - Import in Vercel
+1. Open vercel.com and log in.
+2. Click Add New / Project.
+3. Import Git Repository.
+4. Choose the GitHub repo: terminy-sk-ua.
+5. Framework Preset: Other.
+6. Build Command: leave empty.
+7. Output Directory: leave empty.
+8. Deploy.
+
+STEP 4 - After deployment
+Vercel will give a link like:
+https://terminy-sk-ua.vercel.app
+
+Send that link to clients, add it to:
+- TikTok bio
+- Telegram channel
+- WhatsApp status
+- pinned Telegram post
+
+STEP 5 - Domain later
+Good domain ideas:
+- terminysk.com
+- terminy-sk.com
+- terminy-sk-ua.com
+- terminy-slovakia.com
+
+After buying a domain, connect it in Vercel Project Settings > Domains.

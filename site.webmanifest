@@ -1,0 +1,17 @@
+{
+  "name": "Terminy SK-UA",
+  "short_name": "Terminy SK",
+  "description": "Documents, appointments and legal stay support in Slovakia.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#eaf5ff",
+  "theme_color": "#1d8fff",
+  "icons": [
+    {
+      "src": "assets/profile-photo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
